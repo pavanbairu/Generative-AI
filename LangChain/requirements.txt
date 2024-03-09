@@ -1,4 +1,17 @@
+my_langchain.ipynb file
 pip install langchain
 pip install python-dotenv
 pip install langchain_google_genai
 pip install openai
+
+
+langchain.ipynb file
+--------------------
+pip install langchain
+pip install python-dotenv
+pip install openai
+pip install huggingface_hub
+pip install google-search-results
+pip install numexpr
+pip install wikipedia
+pip install pypdf
